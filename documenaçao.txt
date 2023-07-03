@@ -1,3 +1,8 @@
 boanoite
 projeto para a aula de qualidade e teste de software
+<<<<<<< HEAD
 aula de QA
+=======
+[
+mudado aqui
+>>>>>>> 262efce88796a8d1a49aae1baeef032104d1c63e
